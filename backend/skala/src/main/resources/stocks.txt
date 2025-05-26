@@ -1,0 +1,4 @@
+1, TechCorp,28000
+2, GreenEnergy,10000
+3, HealthPlus,520004,SK,15000
+3,SK,15000
